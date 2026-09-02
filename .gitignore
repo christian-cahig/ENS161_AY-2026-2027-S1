@@ -9,7 +9,8 @@ records/
 submissions/**/unchecked/
 syllabus/
 
-materials/references/
-materials/**/_*.ipynb
+materials/**/_*
 materials/**/_*.*
+materials/**/_*.ipynb
+materials/references/
 materials/**/*-contrib*/
