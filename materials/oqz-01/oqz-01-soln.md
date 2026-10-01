@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Solutions to Quiz 01
 
-*Last updated 28 September 2026*
+*Last updated 01 October 2026*
 
 - [Part I](#part-i)
   - [Scenario 01](#scenario-01)
@@ -101,7 +101,7 @@ $R_{A} = \langle -A_{x}, A_{y} \rangle$.
 
 Balancing moments about $A$,
 
-$$10 F_{y} = 500 \left(7.5\right) + 500 \left(5\right) + 500 \left(2.5\right) + 500 \left(2.5\right)$$
+$$10 F_{y} = 400 \left(2.5\right) + 500 \left(2.5\right) + 500 \left(5\right) + 500 \left(7.5\right) + 250 \left(10\right)$$
 
 Balancing horizontal forces acting on the truss,
 
