@@ -44,7 +44,8 @@
 
 1. Plane trusses
    - Assumptions and idealizations
-   - Simple trusses and static determinacy
+   - Simple and compound trusses
+   - Static determinacy (internal and external)
    - Method of joints
    - Method of sections
    - Zero-force members
