@@ -1,6 +1,6 @@
 # Lessons
 
-*Last updated 19 August 2026*
+*Last updated 16 October 2026*
 
 ## Module 1. Force systems and static equilibrium in 2D space
 
@@ -42,11 +42,31 @@
 
 ## Module 3. Structural analysis
 
-Stay tuned.
+1. Plane trusses
+   - Assumptions and idealizations
+   - Simple trusses and static determinacy
+   - Method of joints
+   - Method of sections
+   - Zero-force members
+2. Frames and machines
+
+*References*:
+RCH14, Chapter 6;
+VME11, Chapter 6;
+MK07, Chapter 4
 
 ## Module 4. Internal reactions
 
-Stay tuned.
+1. Beams
+2. Normal force
+3. Shear force
+4. Bending moment
+5. Torsion
+6. Relating distributed load, shear force, and bending moment
+
+*References*:
+RCH14, Chapter 7;
+VME11, Chapter 7
 
 ## Module 5. Friction
 
