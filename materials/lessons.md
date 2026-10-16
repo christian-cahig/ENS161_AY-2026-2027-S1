@@ -55,14 +55,13 @@ RCH14, Chapter 6;
 VME11, Chapter 6;
 MK07, Chapter 4
 
-## Module 4. Internal reactions
+## Module 4. Internal loadings
 
-1. Beams
-2. Normal force
-3. Shear force
-4. Bending moment
-5. Torsion
-6. Relating distributed load, shear force, and bending moment
+1. Normal force
+2. Shear force (equations and diagram)
+3. Bending moment (equations and diagram)
+4. Torsion
+5. Relating distributed load, shear force, and bending moment
 
 *References*:
 RCH14, Chapter 7;
