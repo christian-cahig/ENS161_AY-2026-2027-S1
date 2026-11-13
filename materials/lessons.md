@@ -1,6 +1,6 @@
 # Lessons
 
-*Last updated 16 October 2026*
+*Last updated 13 November 2026*
 
 ## Module 1. Force systems and static equilibrium in 2D space
 
@@ -68,14 +68,34 @@ MK07, Chapter 4
 RCH14, Chapter 7;
 VME11, Chapter 7
 
-## Module 5. Friction
+## Module 5. Centroids, center of mass, and center of gravity
 
-Stay tuned.
+1. Centroids of lengths, areas, and volumes
+2. Center of mass
+3. Center of gravity
+4. Composite bodies
+5. Pappus-Guldinus theorems
 
-## Module 6. Centers of gravity and centroids
+*References*:
+RCH14, Chapter 9;
+VME11, Chapter 5;
+MK07, Chapter 5 Section A
 
-Stay tuned.
+## Module 6. Moments of Inertia
 
-## Module 7. Moments of Inertia
+1. Moments of inertia
+2. Parallel axis theorem
+3. Radius of gyration
+4. Composite areas
+5. Mass moment of inertia
 
-Stay tuned.
+*References*:
+RCH14, Chapter 10;
+VME11, Chapter 9;
+MK07, Chapter 5 Section A
+
+## Module 7. Friction
+
+*References*:
+RCH14, Chapter 8;
+MK07, Chapter 6
